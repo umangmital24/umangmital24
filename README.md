@@ -1,42 +1,46 @@
-# Hi, I'm Umang Mittal
+# Umang Mittal
 
-### Building AI systems that solve real-world problems.
+**AI/ML Engineer · Agentic AI · RAG · Backend Systems**
 
-Software Engineer (AI/ML) at **MAQ Software** and a Computer Science
-graduate from **NSUT, Delhi**.
+Software Engineer 1 (AI/ML) at **MAQ Software**. I build AI products end-to-end — from understanding the problem and designing agent workflows to APIs, integrations, evaluation, and deployment.
 
-I work on agentic AI, conversational systems, and backend automation—
-from understanding the problem to integrating APIs and deploying solutions.
+My focus is turning **LLMs and multi-agent systems into reliable products**, not just demos.
 
-## What I'm building
+## What I work on
 
-### Samhaal — AI Screenshot Memory
-Turning screenshots into searchable, structured memories:
-books to read, products to revisit, recipes to try, and more.
+- **Agentic AI:** multi-agent orchestration, tool calling, critic/reviewer workflows, human-in-the-loop systems
+- **LLM Applications:** RAG, embeddings, vector search, conversational AI, structured generation
+- **Backend Engineering:** Python, FastAPI, REST APIs, PostgreSQL, Supabase, SQL
+- **Production AI:** Azure, AI Foundry, automation, deployment, monitoring, deterministic guardrails
 
-My focus: useful retrieval, thoughtful product design, and privacy
-and security as core product requirements.
+## Featured Projects
 
-[Explore the repository](https://github.com/umangmital24/screenshot-brain)
+### [Samhaal — AI Screenshot Memory](https://github.com/umangmital24/screenshot-brain)
+AI-powered screenshot memory that turns saved screenshots into structured, searchable memories instead of leaving them buried in the gallery.
+
+Built around **FastAPI, React, Supabase, Gemini, embeddings, duplicate detection, intent classification, and natural-language retrieval**, with privacy and security treated as core product requirements.
 
 ### Autonomous Commerce Agent
-A procurement system with 14 agents orchestrated through LangGraph,
-supporting consumer product discovery and business supplier research.
+End-to-end agentic procurement system built with a **14-agent LangGraph swarm** for B2C product research and B2B supplier workflows.
 
-Includes signed intent verification, deterministic budget checks,
-and human approval for actions above configured thresholds.
+Includes **signed intent verification, deterministic budget controls, adversarial proposer/critic flows, browser automation, payment integration, and human approval gates**.
 
-## What I work with
+### Multi-Agent Upsell Recommendation System
+Enterprise recommendation platform using specialized agents for **customer signals, recommendations, critique, retention, email generation, and schema discovery**.
 
-- **AI:** LangGraph, LangChain, RAG, tool calling, vector search
-- **Backend:** Python, FastAPI, REST APIs, SQL
-- **Cloud & data:** Azure, PostgreSQL, Azure AI Foundry, Azure AI Search
-- **Engineering:** API integrations, browser automation, deployment
+Designed around multi-tenant data, confidence scoring, conversational analytics, deterministic business rules, and production-oriented agent traces.
 
-## Engineering interests
+### [HOS Trip Planner & ELD Log Generator](https://github.com/umangmital24/hos_system)
+Full-stack trip-planning and compliance engine that applies FMCSA Hours-of-Service rules, schedules mandatory breaks, and generates 24-hour ELD log sheets.
 
-Turning ambiguous requirements into working systems.
-Building reliable agent workflows with explicit controls.
-Making AI products useful beyond the demo.
+**Django REST Framework · React · Vite · Leaflet · Python**
 
-[LinkedIn](https://www.linkedin.com/in/umang-mittal-35a2b521a/)
+## Tech
+
+`Python` · `FastAPI` · `LangGraph` · `LangChain` · `RAG` · `LLMs` · `PyTorch` · `scikit-learn` · `PostgreSQL` · `Supabase` · `Azure` · `React` · `Node.js`
+
+## What I'm looking for
+
+I’m interested in **AI Engineer, Forward Deployed Engineer, and Applied AI** roles where I can work close to users, understand messy real-world problems, and ship reliable AI systems into production.
+
+[LinkedIn](https://www.linkedin.com/in/umang-mittal-35a2b521a/) · [GitHub](https://github.com/umangmital24)

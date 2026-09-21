@@ -1,46 +1,44 @@
 # Umang Mittal
 
-**AI/ML Engineer · Agentic AI · RAG · Backend Systems**
+**AI/ML Engineer · Product Builder · Applied AI & Analytics**
 
-Software Engineer 1 (AI/ML) at **MAQ Software**. I build AI products end-to-end — from understanding the problem and designing agent workflows to APIs, integrations, evaluation, and deployment.
+I’m a Software Engineer working at the intersection of **AI, backend engineering, analytics, and product problem-solving**.
 
-My focus is turning **LLMs and multi-agent systems into reliable products**, not just demos.
+I enjoy taking ambiguous problems from **requirements → product flow → implementation → deployment**, especially when the solution needs both strong engineering and clear business/user thinking.
 
-## What I work on
+## What I bring
 
-- **Agentic AI:** multi-agent orchestration, tool calling, critic/reviewer workflows, human-in-the-loop systems
-- **LLM Applications:** RAG, embeddings, vector search, conversational AI, structured generation
-- **Backend Engineering:** Python, FastAPI, REST APIs, PostgreSQL, Supabase, SQL
-- **Production AI:** Azure, AI Foundry, automation, deployment, monitoring, deterministic guardrails
+- **Product thinking:** problem discovery, requirements, user flows, rapid prototyping, iteration
+- **AI/ML:** agentic systems, RAG, LLM applications, embeddings, ML pipelines
+- **Analytics:** Python, Pandas, SQL, Power BI, model evaluation, data-driven decision making
+- **Backend & systems:** FastAPI, REST APIs, PostgreSQL, Supabase, Azure, automation
+- **Shipping:** end-to-end ownership from prototype to production-facing workflows
 
-## Featured Projects
+## Selected Work
 
-### [Samhaal — AI Screenshot Memory](https://github.com/umangmital24/screenshot-brain)
-AI-powered screenshot memory that turns saved screenshots into structured, searchable memories instead of leaving them buried in the gallery.
+| Project | What I built | Highlights |
+| --- | --- | --- |
+| **[Samhaal — AI Screenshot Memory](https://github.com/umangmital24/screenshot-brain)** | Privacy-first product that turns screenshots into searchable memories | Android capture flow, on-device OCR, FastAPI, Supabase/Postgres, Gemini, retrieval, RLS |
+| **[Freight Rate Prediction Pipeline](https://github.com/umangmital24/Freight-rate-prediction-pipeline)** | End-to-end ML pipeline for future freight-rate prediction | Time-based validation, leakage-aware features, XGBoost, **6.98% holdout MAPE vs 12.13% naive baseline** |
+| **[HOS Trip Planner & ELD Log Generator](https://github.com/umangmital24/hos_system)** | Compliance-aware trip-planning product for commercial drivers | Django REST, React, routing, rule engine, interactive maps, automated ELD logs |
+| **[Trading Data Analysis](https://github.com/umangmital24/Data-analysis)** | Exploratory analysis of trader executions and market sentiment | Pandas, NumPy, order-level aggregation, PnL/slippage analysis, correlation insights |
 
-Built around **FastAPI, React, Supabase, Gemini, embeddings, duplicate detection, intent classification, and natural-language retrieval**, with privacy and security treated as core product requirements.
+## Samhaal — Product + AI
 
-### Autonomous Commerce Agent
-End-to-end agentic procurement system built with a **14-agent LangGraph swarm** for B2C product research and B2B supplier workflows.
+Samhaal is the project that best represents how I like to work: start with a real user problem, make product decisions around it, and then build the system end-to-end.
 
-Includes **signed intent verification, deterministic budget controls, adversarial proposer/critic flows, browser automation, payment integration, and human approval gates**.
+The core idea is simple: people save screenshots to remember something, but later struggle to find it again.
 
-### Multi-Agent Upsell Recommendation System
-Enterprise recommendation platform using specialized agents for **customer signals, recommendations, critique, retention, email generation, and schema discovery**.
+Samhaal turns those screenshots into structured memories and makes them retrievable through natural language, while keeping **raw screenshots local in the normal Android capture flow** and enforcing user-scoped access controls.
 
-Designed around multi-tenant data, confidence scoring, conversational analytics, deterministic business rules, and production-oriented agent traces.
+→ **[View Samhaal](https://github.com/umangmital24/screenshot-brain)**
 
-### [HOS Trip Planner & ELD Log Generator](https://github.com/umangmital24/hos_system)
-Full-stack trip-planning and compliance engine that applies FMCSA Hours-of-Service rules, schedules mandatory breaks, and generates 24-hour ELD log sheets.
+## Tech I use
 
-**Django REST Framework · React · Vite · Leaflet · Python**
+`Python` · `FastAPI` · `SQL` · `PostgreSQL` · `Supabase` · `Azure` · `LangGraph` · `LangChain` · `RAG` · `LLMs` · `PyTorch` · `scikit-learn` · `XGBoost` · `Pandas` · `Power BI` · `React` · `Node.js`
 
-## Tech
+## Areas I’m interested in
 
-`Python` · `FastAPI` · `LangGraph` · `LangChain` · `RAG` · `LLMs` · `PyTorch` · `scikit-learn` · `PostgreSQL` · `Supabase` · `Azure` · `React` · `Node.js`
-
-## What I'm looking for
-
-I’m interested in **AI Engineer, Forward Deployed Engineer, and Applied AI** roles where I can work close to users, understand messy real-world problems, and ship reliable AI systems into production.
+I’m especially interested in roles around **Product / Associate Product, Product Analyst / Business Analyst, Applied AI, and Forward Deployed Engineering** — positions where I can stay close to users and business problems while using technology to ship solutions.
 
 [LinkedIn](https://www.linkedin.com/in/umang-mittal-35a2b521a/) · [GitHub](https://github.com/umangmital24)
